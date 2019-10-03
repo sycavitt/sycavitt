@@ -7,7 +7,7 @@
   font-size: 18px;
   color: #FFF;
   padding: 12px 22px;
-  background-color: #f518c1;
+  background-color: #5c00e6;
   border: 2px solid #FFF;
 }
 @media (max-width: 600px) {
@@ -27,7 +27,42 @@
 }
 footer {
   width: 100%;
-  background-color: #f518c1;
+  background-color: #FFF;
   padding: 5%;
   color: #FFF;
-} 
+  border: solid;
+  border-color: #5c00e6;
+}
+.sales {
+  background-color: #FFF;
+}
+.navbar {
+  background-color: black;
+}
+h4 {
+  color: #5c00e6;
+}
+h3 {
+  color: #5c00e6;
+}
+.sales {
+  text-align: center;
+}
+.fa {
+  padding: 15px;
+  font-size: 25px;
+  color: #5c00e6;
+}
+ .card {
+  display:inline-block;
+}
+
+.underline{
+  width: 100px;
+  height: 2px;
+  background-color: orangered;
+}
+
+.bg-light-gray{
+  background-color: rgba(111, 111, 111, 0.09);
+}
